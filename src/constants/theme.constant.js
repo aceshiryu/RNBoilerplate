@@ -1,0 +1,13 @@
+export const PRIMARY_COLOR = '#116BCA';
+export const SECONDARY_COLOR = '#3399ff';
+export const BLACK = '#333333';
+export const SELECT_HIGHLIGHT = '#EBEDEF';
+export const GRAY = '#757575';
+export const GRAY_OFF = '#868e96';
+export const GRAY_LIGHT = '#C0C0C0';
+export const LIGHT = '#EBEBEB';
+export const VERY_LIGHT = '#FAFAFA';
+export const SUCCESS = '#6cc070';
+export const ERROR = '#cc0000';
+export const BLUE_LIGHT = '#EAF1FC';
+export const WARNING = '#FFCC00';
